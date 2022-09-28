@@ -6,6 +6,9 @@ The purpose of this project is to perform analysis of Pyber ridesharing data in 
 ## Results 
 By analysis and aggregation of PyBer’s ride sharing data, below is a statistical overview and summary: 
 
+![image](https://user-images.githubusercontent.com/111802162/192898438-b3e94153-8b2b-4daf-9b04-49f4e9f5e6de.png)
+
+
 
 
 By reviewing the summary, we can see that there are several key findings which include: 
