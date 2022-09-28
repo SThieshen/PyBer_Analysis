@@ -11,7 +11,8 @@ By analysis and aggregation of PyBer’s ride sharing data, below is a statistic
 
 
 
-By reviewing the summary, we can see that there are several key findings which include: 
+By reviewing the summary, we can see that findings there indicate the following:
+
 - Urban cities have the highest ridership demand while rural cities have the least.
 - Urban cities have 4x+ more drivers than suburban cities.
 - Suburban cities have over six times the drivers than rural areas with almost 4.5x the revenue.
